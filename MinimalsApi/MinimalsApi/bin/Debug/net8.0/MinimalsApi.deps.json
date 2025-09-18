@@ -8,17 +8,21 @@
     ".NETCoreApp,Version=v8.0": {
       "MinimalsApi/1.0.0": {
         "dependencies": {
+<<<<<<< HEAD
           "Microsoft.EntityFrameworkCore": "9.0.9",
           "Microsoft.EntityFrameworkCore.Design": "9.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.9",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.3",
           "Pomelo.EntityFrameworkCore.MySql": "9.0.0",
+=======
+>>>>>>> 36056bd91f70c8c9311b29d96eae0cc3feecfaad
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
           "MinimalsApi.dll": {}
         }
       },
+<<<<<<< HEAD
       "Azure.Core/1.38.0": {
         "dependencies": {
           "Microsoft.Bcl.AsyncInterfaces": "7.0.0",
@@ -712,6 +716,9 @@
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
+=======
+      "Microsoft.Extensions.ApiDescription.Server/6.0.5": {},
+>>>>>>> 36056bd91f70c8c9311b29d96eae0cc3feecfaad
       "Microsoft.OpenApi/1.6.14": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
@@ -720,6 +727,7 @@
           }
         }
       },
+<<<<<<< HEAD
       "Microsoft.SqlServer.Server/1.0.0": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
@@ -779,6 +787,8 @@
           }
         }
       },
+=======
+>>>>>>> 36056bd91f70c8c9311b29d96eae0cc3feecfaad
       "Swashbuckle.AspNetCore/6.6.2": {
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "6.0.5",
@@ -816,6 +826,7 @@
             "fileVersion": "6.6.2.401"
           }
         }
+<<<<<<< HEAD
       },
       "System.ClientModel/1.0.0": {
         "dependencies": {
@@ -1111,6 +1122,8 @@
             "fileVersion": "6.0.21.52210"
           }
         }
+=======
+>>>>>>> 36056bd91f70c8c9311b29d96eae0cc3feecfaad
       }
     }
   },
@@ -1120,6 +1133,7 @@
       "serviceable": false,
       "sha512": ""
     },
+<<<<<<< HEAD
     "Azure.Core/1.38.0": {
       "type": "package",
       "serviceable": true,
@@ -1274,6 +1288,8 @@
       "path": "microsoft.entityframeworkcore.tools/9.0.3",
       "hashPath": "microsoft.entityframeworkcore.tools.9.0.3.nupkg.sha512"
     },
+=======
+>>>>>>> 36056bd91f70c8c9311b29d96eae0cc3feecfaad
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "type": "package",
       "serviceable": true,
@@ -1281,6 +1297,7 @@
       "path": "microsoft.extensions.apidescription.server/6.0.5",
       "hashPath": "microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512"
     },
+<<<<<<< HEAD
     "Microsoft.Extensions.Caching.Abstractions/9.0.9": {
       "type": "package",
       "serviceable": true,
@@ -1421,6 +1438,8 @@
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
     },
+=======
+>>>>>>> 36056bd91f70c8c9311b29d96eae0cc3feecfaad
     "Microsoft.OpenApi/1.6.14": {
       "type": "package",
       "serviceable": true,
@@ -1428,6 +1447,7 @@
       "path": "microsoft.openapi/1.6.14",
       "hashPath": "microsoft.openapi.1.6.14.nupkg.sha512"
     },
+<<<<<<< HEAD
     "Microsoft.SqlServer.Server/1.0.0": {
       "type": "package",
       "serviceable": true,
@@ -1463,6 +1483,8 @@
       "path": "pomelo.entityframeworkcore.mysql/9.0.0",
       "hashPath": "pomelo.entityframeworkcore.mysql.9.0.0.nupkg.sha512"
     },
+=======
+>>>>>>> 36056bd91f70c8c9311b29d96eae0cc3feecfaad
     "Swashbuckle.AspNetCore/6.6.2": {
       "type": "package",
       "serviceable": true,
@@ -1490,6 +1512,7 @@
       "sha512": "sha512-mBBb+/8Hm2Q3Wygag+hu2jj69tZW5psuv0vMRXY07Wy+Rrj40vRP8ZTbKBhs91r45/HXT4aY4z0iSBYx1h6JvA==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.6.2",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+<<<<<<< HEAD
     },
     "System.ClientModel/1.0.0": {
       "type": "package",
@@ -1728,6 +1751,8 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+=======
+>>>>>>> 36056bd91f70c8c9311b29d96eae0cc3feecfaad
     }
   }
 }

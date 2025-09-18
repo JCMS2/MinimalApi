@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using MinimalsApi.Dominio.Entidades;
@@ -51,5 +52,11 @@ namespace MinimalsApi.Infraestrutura.Db
                 }
             }
         }
+=======
+﻿namespace MinimalsApi.Infraestrutura.Db
+{
+    public class DbContexto
+    {
+>>>>>>> 36056bd91f70c8c9311b29d96eae0cc3feecfaad
     }
 }

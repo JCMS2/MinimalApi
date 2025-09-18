@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Comercial\\Desktop\\Zé\\C#\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetoMinimalsApi\\MinimalApi\\MinimalsApi\\MinimalsApi\\MinimalsApi.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Comercial\\Desktop\\Zé\\C#\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetoMinimalsApi\\MinimalApi\\MinimalsApi\\MinimalsApi\\MinimalsApi.csproj",
         "packagesPath": "C:\\Users\\Comercial\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Comercial\\Desktop\\Zé\\C#\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetoMinimalsApi\\MinimalApi\\MinimalsApi\\MinimalsApi\\obj\\",
+=======
+    "C:\\Users\\Comercial\\Desktop\\Zé\\C#\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetoMinimalsApi\\MinimalsApi\\MinimalsApi\\MinimalsApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Comercial\\Desktop\\Zé\\C#\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetoMinimalsApi\\MinimalsApi\\MinimalsApi\\MinimalsApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Comercial\\Desktop\\Zé\\C#\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetoMinimalsApi\\MinimalsApi\\MinimalsApi\\MinimalsApi.csproj",
+        "projectName": "MinimalsApi",
+        "projectPath": "C:\\Users\\Comercial\\Desktop\\Zé\\C#\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetoMinimalsApi\\MinimalsApi\\MinimalsApi\\MinimalsApi.csproj",
+        "packagesPath": "C:\\Users\\Comercial\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Comercial\\Desktop\\Zé\\C#\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetoMinimalsApi\\MinimalsApi\\MinimalsApi\\obj\\",
+>>>>>>> 36056bd91f70c8c9311b29d96eae0cc3feecfaad
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,17 +66,25 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
+<<<<<<< HEAD
               "version": "[9.0.9, )"
+=======
+              "version": "[9.0.3, )"
+>>>>>>> 36056bd91f70c8c9311b29d96eae0cc3feecfaad
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
+<<<<<<< HEAD
               "version": "[9.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.9, )"
+=======
+              "version": "[9.0.3, )"
+>>>>>>> 36056bd91f70c8c9311b29d96eae0cc3feecfaad
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

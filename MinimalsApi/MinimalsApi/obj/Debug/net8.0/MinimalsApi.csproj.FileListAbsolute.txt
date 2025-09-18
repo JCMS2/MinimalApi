@@ -34,6 +34,7 @@ C:\Users\Comercial\Desktop\Zé\C#\Bootcamp-Avanade\ProjetosBootcamp\ProjetoMinim
 C:\Users\Comercial\Desktop\Zé\C#\Bootcamp-Avanade\ProjetosBootcamp\ProjetoMinimalsApi\MinimalsApi\MinimalsApi\obj\Debug\net8.0\MinimalsApi.pdb
 C:\Users\Comercial\Desktop\Zé\C#\Bootcamp-Avanade\ProjetosBootcamp\ProjetoMinimalsApi\MinimalsApi\MinimalsApi\obj\Debug\net8.0\MinimalsApi.genruntimeconfig.cache
 C:\Users\Comercial\Desktop\Zé\C#\Bootcamp-Avanade\ProjetosBootcamp\ProjetoMinimalsApi\MinimalsApi\MinimalsApi\obj\Debug\net8.0\ref\MinimalsApi.dll
+<<<<<<< HEAD
 C:\Users\Moura\OneDrive\Desktop\C#\Curso Avanade\Bootcamp-Avanade\ProjetosBootcamp\ProjetoMinimalsApi\MinimalApi\MinimalsApi\MinimalsApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Moura\OneDrive\Desktop\C#\Curso Avanade\Bootcamp-Avanade\ProjetosBootcamp\ProjetoMinimalsApi\MinimalApi\MinimalsApi\MinimalsApi\bin\Debug\net8.0\appsettings.json
 C:\Users\Moura\OneDrive\Desktop\C#\Curso Avanade\Bootcamp-Avanade\ProjetosBootcamp\ProjetoMinimalsApi\MinimalApi\MinimalsApi\MinimalsApi\bin\Debug\net8.0\MinimalsApi.staticwebassets.endpoints.json
@@ -380,3 +381,5 @@ C:\Users\Comercial\Desktop\Zé\C#\Bootcamp-Avanade\ProjetosBootcamp\ProjetoMinim
 C:\Users\Comercial\Desktop\Zé\C#\Bootcamp-Avanade\ProjetosBootcamp\ProjetoMinimalsApi\MinimalApi\MinimalsApi\MinimalsApi\obj\Debug\net8.0\MinimalsApi.pdb
 C:\Users\Comercial\Desktop\Zé\C#\Bootcamp-Avanade\ProjetosBootcamp\ProjetoMinimalsApi\MinimalApi\MinimalsApi\MinimalsApi\obj\Debug\net8.0\MinimalsApi.genruntimeconfig.cache
 C:\Users\Comercial\Desktop\Zé\C#\Bootcamp-Avanade\ProjetosBootcamp\ProjetoMinimalsApi\MinimalApi\MinimalsApi\MinimalsApi\obj\Debug\net8.0\ref\MinimalsApi.dll
+=======
+>>>>>>> 36056bd91f70c8c9311b29d96eae0cc3feecfaad
